@@ -6,7 +6,7 @@ This package allows user to compute some basical statistical operations (like me
 Install the R package 
 
 ```
-devtools::install_github('unimi-dse/f4836d06')
+devtools::install_github('AndreaFrattini/PreliminaryAnalysis')
 ```
 Load the package
 
